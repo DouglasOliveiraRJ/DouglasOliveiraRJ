@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Douglas Guimarães</h1>
+<h1 align="center">Oi 👋, eu sou o Douglas Guimarães de Oliveira</h1>
 <h3 align="center">Eu sou apaixonado por análise de dados</h3>
 
 - 🌱 Atualmente estou focado nos estudos em tudo que envolve a área de dados **Python, Power BI, SQL, Machine learning, Excel**
