@@ -3,18 +3,6 @@
 <p align="center">Profissional Junior, graduando em ciência da computação. Estou complementando minha formação com cursos profissionalizantes em Python, SQL, Excel, Power BI, Machine Learning, Big Data e Data Science. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; width: 100%; max-width: 1200px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DouglasOliveiraRJ&show_icons=true&theme=tokyonight" 
-    alt="Estatísticas do GitHub" 
-    style="width: 400px; height: auto; aspect-ratio: 2/1;"
-  >
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasOliveiraRJ&layout=compact&theme=tokyonight" 
-    alt="Linguagens mais usadas" 
-    style="width: 305px; height: auto; aspect-ratio: 2/1;"
-  >
-</div>
 
 <div style="display: inline_block"><br>
 <img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
