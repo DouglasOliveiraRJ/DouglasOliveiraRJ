@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, eu sou o Douglas Guimarães de Oliveira</h1>
 
-<p align="center">Profissional Junior, graduando em ciência da computação. Estou complementando minha formação com cursos profissionalizantes em Python, SQL, Excel, Power BI, Machine Learning, Big Data e Data Science. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Sou um profissional de Tecnologia formado em Ciência da Computação, com forte foco e paixão por Inteligência de Dados e Business Intelligence. Venho construindo uma base sólida na área através de projetos práticos e individuais, focados em extração, tratamento e modelagem de dados com SQL, Python, Excel Avançado e Power BI. Para criar relatórios escaláveis e automações que realmente gerem valor, utilizo minha comunicação clara e facilidade no levantamento de requisitos, o que facilita na hora de conversar com as áreas, entender os desafios delas e traduzir tudo isso em soluções técnicas que realmente resolvem o problema.
 
 
 
